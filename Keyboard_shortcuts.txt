@@ -1,4 +1,4 @@
-Windows shortcuts 1
+Windows shortcuts 
 
 Windows+d to minimize all the tabs
 window+1 to open the software in the task bar
