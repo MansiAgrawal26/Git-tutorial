@@ -1,4 +1,4 @@
-Command prompt hacks
+Command prompt hacks 1
 
 Tip1: Help color
 color num
