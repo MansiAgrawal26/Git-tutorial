@@ -1,0 +1,22 @@
+Windows shortcuts
+
+Windows+d to minimize all the tabs
+window+1 to open the software in the task bar
+windows+V to view clipboard history
+Windows+arrow key to open tab side by side
+Ctrl+backspace to delete a word
+windows+tab to view all the tabs opened	
+Alt+tab
+press home for the beginning of the line
+shift+end to select all the text
+shift+home to select from the middle
+windows+p to connect another monitor
+windows+l to lock the monitor
+press mouse wheel to close the number of tabs open while searching for something in google chrome and using so many tabs at a time
+
+
+
+
+
+					
+

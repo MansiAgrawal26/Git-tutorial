@@ -1,0 +1,37 @@
+Command prompt hacks
+
+Tip1: Help color
+color num
+It is for changing the color
+
+Tip2: help prompt
+prompt mansi@hacker$G
+It is for changing the directory name
+
+Tip3: Title Mansi
+It is for changing the title
+
+Tip4: Attrib +h +s +r
+To hide a folder
+Attrib -h -s -r
+To show hidden folder
+
+Tip5: Copy the output in clipboard
+for ex : ipconfg
+-----------------------
+---------------This is the output
+ipconfig | clip "To copy"
+
+Tip6: f7 key to view the history
+
+Tip7: Home for the beggining of the cursor position
+end for the ending
+
+Tip8: Use the name which is reserved by the windows like aux , con
+but can make by cmd like this
+md aux\
+
+Tip9: View installed programs
+wmic product get name
+
+
